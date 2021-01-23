@@ -77,3 +77,13 @@ body, html {
     border-radius: .25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
+
+.label {
+	font-size: 70%;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+
+}
